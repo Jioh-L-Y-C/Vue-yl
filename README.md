@@ -6,6 +6,7 @@
 
 
 - 这是预览的连接 [https://jioh-l-y-c.github.io/Vue-yl/](https://jioh-l-y-c.github.io/Vue-yl/)
+-点餐功能,登录功能
 ``` bash
 # install dependencies
 npm install
